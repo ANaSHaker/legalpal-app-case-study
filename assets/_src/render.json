@@ -1,0 +1,93 @@
+{
+  "outDir": "..",
+  "brand": {
+    "name": "LegalPal",
+    "tagline": "Smart legal platform for lawyers in Palestine",
+    "accent": "#1E6BFF",
+    "accent2": "#22D3EE",
+    "logo": "D:/shaker-github/_store/com.legalapp.pal/icon.png",
+    "dark": true
+  },
+  "images": [
+    {
+      "type": "banner",
+      "file": "banner.png",
+      "kicker": "Case Study · LegalTech · Palestine",
+      "subtitle": "A lawyer's toolkit: AI legal assistant, case management, laws, court decisions and contracts, in Arabic.",
+      "screens": [
+        "D:/shaker-github/_work/legalpal-shots/ios/lp_ios_02.png",
+        "D:/shaker-github/_work/legalpal-shots/ios/lp_ios_03.png",
+        "D:/shaker-github/_work/legalpal-shots/ios/lp_ios_04.png"
+      ],
+      "devices": [
+        "iphone",
+        "iphone",
+        "iphone"
+      ],
+      "chips": [
+        "Flutter",
+        "Bloc / Cubit",
+        "Firebase",
+        "OpenAI",
+        "Arabic RTL"
+      ]
+    },
+    {
+      "type": "devices",
+      "file": "screens-ios.png",
+      "title": "App Store screenshots",
+      "screens": [
+        "D:/shaker-github/_work/legalpal-shots/ios/lp_ios_01.png",
+        "D:/shaker-github/_work/legalpal-shots/ios/lp_ios_03.png",
+        "D:/shaker-github/_work/legalpal-shots/ios/lp_ios_02.png",
+        "D:/shaker-github/_work/legalpal-shots/ios/lp_ios_04.png",
+        "D:/shaker-github/_work/legalpal-shots/ios/lp_ios_05.png"
+      ],
+      "devices": [
+        "iphone",
+        "iphone",
+        "iphone",
+        "iphone",
+        "iphone"
+      ],
+      "width": 1700,
+      "height": 980
+    },
+    {
+      "type": "gallery",
+      "file": "screens-play.png",
+      "title": "Google Play listing",
+      "screens": [
+        "D:/shaker-github/_store/com.legalapp.pal/shot_01.png",
+        "D:/shaker-github/_store/com.legalapp.pal/shot_02.png",
+        "D:/shaker-github/_store/com.legalapp.pal/shot_03.png",
+        "D:/shaker-github/_store/com.legalapp.pal/shot_04.png",
+        "D:/shaker-github/_store/com.legalapp.pal/shot_05.png"
+      ],
+      "device": "card",
+      "cardRatio": 2.0,
+      "cols": 5
+    },
+    {
+      "type": "feature",
+      "file": "feature-ai-assistant.png",
+      "kicker": "Signature feature",
+      "title": "A legal assistant in the lawyer's pocket",
+      "points": [
+        "Chat with suggested legal questions",
+        "Image upload: read and analyse a document",
+        "Drafting: contracts and lawsuit petitions",
+        "Rewrite, summarise and simplify legal text",
+        "Arabic proofreading with highlighted fixes"
+      ],
+      "screens": [
+        "D:/shaker-github/_work/legalpal-shots/ios/lp_ios_02.png",
+        "D:/shaker-github/_work/legalpal-shots/ios/lp_ios_03.png"
+      ],
+      "devices": [
+        "iphone",
+        "iphone"
+      ]
+    }
+  ]
+}

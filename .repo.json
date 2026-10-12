@@ -1,0 +1,17 @@
+{
+  "name": "legalpal-app-case-study",
+  "description": "Case study: LegalPal, a legal platform for lawyers in Palestine. Flutter app with an OpenAI legal assistant, case management, laws, court decisions, contracts and realtime chat. Live on Google Play and the App Store. Every legal tool in one app",
+  "topics": [
+    "flutter",
+    "case-study",
+    "legaltech",
+    "openai",
+    "bloc",
+    "firebase",
+    "firestore",
+    "mapbox",
+    "arabic",
+    "palestine"
+  ],
+  "homepage": "https://play.google.com/store/apps/details?id=com.legalapp.pal"
+}
